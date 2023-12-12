@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Sample Puzzle</string>
-
-    <string name="invalid_move">Invalid move</string>
-    <string name="winner">YOU WIN!</string>
-</resources>
